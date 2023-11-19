@@ -1,0 +1,47 @@
+.main{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.form-div{
+    background-image: url("https://global.discourse-cdn.com/elastic/original/3X/9/0/90df22ab443662d632838fd82f6ea38b2cba025a.png");
+   
+    background-repeat: no-repeat;
+}
+.form{
+    margin: 20px 10px;
+}
+label{
+    margin-left: 90px;
+    display: flex;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 600;
+}
+.login-form{
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+    
+  
+    
+    
+    
+    height: 500px;
+    text-align: center;
+    
+    justify-content: center;
+    
+}
+
+.inp{
+    padding: 10px;
+
+    border-radius: 10px;
+}
+.btn{
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}

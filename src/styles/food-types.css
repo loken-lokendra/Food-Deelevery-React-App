@@ -1,0 +1,23 @@
+.food1  {
+        position: relative;
+        top: 0;
+        transition: top ease 0.5s;
+         background-color: darksalmon;  
+        height: 80px;
+        border-radius: 10px;
+       
+            
+}
+.food1:hover {
+    top: -10px;
+}
+.category__img img{
+    margin-left: 10px;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+
+.crimson-text {
+    color: crimson;
+ }
